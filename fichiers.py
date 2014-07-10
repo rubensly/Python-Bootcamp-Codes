@@ -1,0 +1,7 @@
+a=open("example.txt","a")
+a.write("password")
+a.close()
+b=open("example.txt","r")
+f=b.read()
+b.close()
+print(f)
