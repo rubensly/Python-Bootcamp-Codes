@@ -1,7 +1,7 @@
 Python BootCamp Codes
 ==========
 
-This is a compilation of codes written while learning computer programming at a Python Bootcamp (Saint-Louis de Gonzague, Port-au-Prince Haiti) in summer 2014. 
+This is a compilation of codes written while learning computer programming at a Python Bootcamp (Saint-Louis de Gonzague, Port-au-Prince Haiti) in summer of 2014. 
 
 ## Content
 This repo contains simple Python algorithms including:
